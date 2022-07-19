@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+.container img {
+  width: 20rem;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
